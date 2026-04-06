@@ -1,6 +1,6 @@
 python-telegram-bot==20.7
 selenium==4.18.1
-requests==2.31.0
+requests==2.33.0
 phonenumbers==8.13.29
 SpeechRecognition==3.10.1
 pydub==0.25.1
